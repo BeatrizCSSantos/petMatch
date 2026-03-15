@@ -75,3 +75,4 @@ temp/
 
 .dockerignore
 docker-compose.override.yml
+/src/generated/prisma
